@@ -1,0 +1,4 @@
+body {
+  overflow: hidden; /*はみ出した部分は非表示とする*/
+  background-color: #ff0000; /*これは赤色*/
+}
